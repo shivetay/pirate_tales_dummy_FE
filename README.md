@@ -1,6 +1,6 @@
 ## Pirate Tales dummy mock
 
-This is a 'dummy mock' for `Web based MMO` game ### Pirate Tales
+This is a 'dummy mock' for `Web based MMO` game **Pirate Tales**
 
 Main purpose of this project:
 
