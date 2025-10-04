@@ -20,11 +20,15 @@ export default function Home() {
           <li>
             <Link href="/crew-quarter">+Kwatera załogi</Link>
           </li>
-          <li>Wolny port</li>
+          <li>
+            <Link href="/free-port">+Wolny port</Link>
+          </li>
           <li>Magazyn</li>
           <li>Skrytka</li>
-          <li>Budowa</li>
-          <li>Technologia</li>
+          <li>
+            <Link href="/manage"> +Budowa</Link>
+          </li>
+          <li>+Technologia</li>
         </ul>
       </main>
     </div>
